@@ -1,8 +1,5 @@
 # Contact List Manager
 
-Instructions to run the app will go here.
-# Contact List Manager
-
 ## 📋 Overview
 Contact List Manager is a full-stack web application that allows users to:
 - ✅ Add new contacts with a name and email
