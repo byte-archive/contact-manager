@@ -1,0 +1,39 @@
+{
+  "contacts": [
+    {
+      "id": 1748483215033,
+      "name": "steve Jobs",
+      "email": "stevejobs@gmail.com"
+    },
+    {
+      "id": 1748483436132,
+      "name": "Sundar Pichai ",
+      "email": "sundar@gmail.com"
+    },
+    {
+      "id": 1748483462406,
+      "name": "Sam Altman ",
+      "email": "sam@openai.com"
+    },
+    {
+      "id": 1748483476298,
+      "name": "Elon musk",
+      "email": "Elon@x.com"
+    },
+    {
+      "id": 1748487593079,
+      "name": "Patrick",
+      "email": "patrick@linqapp.com"
+    },
+    {
+      "id": 1748494922359,
+      "name": "Patrick",
+      "email": "patrick@gmail.com"
+    },
+    {
+      "id": 1748495755973,
+      "name": "stevens",
+      "email": "stevens@stevcs.com"
+    }
+  ]
+}
